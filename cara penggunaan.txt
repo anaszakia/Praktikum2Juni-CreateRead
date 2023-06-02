@@ -1,0 +1,2 @@
+create (post) :http://127.0.0.1:8000/api/mahasiswa/store
+read (show) : http://127.0.0.1:8000/api/mahasiswa/show/123457(id/nim)
